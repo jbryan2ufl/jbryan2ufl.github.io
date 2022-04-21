@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Clacon";
+    src: url('clacon2.ttf');
+}
+
+.content {
+    max-width: fit-content;
+    margin: auto;
+    text-align: center;
+    font-family: Clacon;
+    color: #fbfbfe;
+  }
+
+  body {
+    background-color: #2b2a33;
+  }
+
+  h1 {
+    font-size: 35px;
+    letter-spacing: 5px;
+    color: white;
+    font-weight: bold;
+  }
+
+  h2 {
+    text-align: left;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 0.75;
+}
+
+  a, a:link, a:visited {
+    color: orange;
+    letter-spacing: 2px;
+  }
+
+  a:hover {
+    color:white;
+  }
+
+  img {
+    text-align: center;
+  }
