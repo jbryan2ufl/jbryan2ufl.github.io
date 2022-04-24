@@ -29,7 +29,7 @@
     padding: 1px;
 }
 
-  a, a:link, a:visited {
+  a, a:link {
     color: orange;
     letter-spacing: 2px;
   }
